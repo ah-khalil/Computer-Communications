@@ -46,10 +46,18 @@
 *.mod*
 *.cmd
 
+#File Compression
+*.rar
+*.tar.gz
+*.zip
+
 #Document Encoding
 *.pdf
 *.docx
 *.doc
+
+#Database Files
+*.db
 
 .tmp_versions/
 modules.order
