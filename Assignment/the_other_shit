@@ -1,0 +1,37 @@
+host malaysia {
+    x=100 y=50
+    winx=0, winy=50
+    link to singapore {
+    }
+    link to indonesia {
+    }
+}
+
+host singapore {
+    south of malaysia
+    winx=550, winy=50
+    link to indonesia {
+    }
+}
+
+
+host indonesia {
+    east east of singapore
+    winx=550, winy=50
+}
+
+
+host australia {
+    south south south east of indonesia
+    winx=550, winy=50
+    link to indonesia {
+    }
+}
+
+
+host new_zealand {
+    east of australia
+    winx=550, winy=50
+    link to australia {
+    }
+}

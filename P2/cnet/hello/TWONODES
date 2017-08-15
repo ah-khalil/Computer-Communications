@@ -1,0 +1,13 @@
+compile	= "hello.c"
+
+host perth {
+    x=80,    y=50
+    winx=10, winy=200
+    link to melbourne
+}
+
+host melbourne {
+    winx=580, winy=200
+    east east of perth
+    link to perth
+}

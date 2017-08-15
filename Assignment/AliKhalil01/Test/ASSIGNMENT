@@ -1,0 +1,43 @@
+compile	= "sliding_window_dp_FINAL.c"
+winopen = true
+bandwidth = 56Kbps,
+
+propagationdelay = 1000msec,
+
+probframeloss = 5,
+probframecorrupt = 10,
+
+host malaysia {
+    x=100 y=50
+    winx=0, winy=0
+    link to singapore {
+    }
+    link to indonesia {
+    }
+}
+
+host singapore {
+    south of malaysia
+    winx=500, winy=0
+    link to indonesia {
+    }
+}
+
+host indonesia {
+    east east of singapore
+    winx=1000, winy=0
+}
+
+host australia {
+    south south south east of indonesia
+    winx=0, winy=500
+    link to indonesia {
+    }
+}
+
+host new_zealand {
+    east of australia
+    winx=500, winy=500
+    link to australia {
+    }
+}

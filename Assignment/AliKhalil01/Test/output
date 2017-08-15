@@ -1,0 +1,306 @@
+
+====================================================================
+Incoming checksum: 14406,	Calculated checksum: 14406
+===
+====================================================================
+Incoming checksum: 43524,	Calculated checksum: 43524
+====================================================================
+				DATA received, seq=1, From Node Number: 2
+Destination Node: 2
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 1,	Checksum: 41803
+Destination Node: 0
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 2,	Checksum: 13501
+
+====================================================================
+Incoming checksum: 23187,	Calculated checksum: 23187
+====================================================================
+				DATA received, seq=1, From Node Number: 3
+Destination Node: 1
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 3,	Checksum: 18914
+Destination Node: 2
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 4,	Checksum: 29560
+
+====================================================================
+Incoming checksum: 33478,	Calculated checksum: 33478
+====================================================================
+				DATA received, seq=5, From Node Number: 3
+Destination Node: 2
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 5,	Checksum: 46096
+
+====================================================================
+Incoming checksum: 16969,	Calculated checksum: 16969
+====================================================================
+				DATA received, seq=7, From Node Number: 3
+Destination Node: 2
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 6,	Checksum: 29297
+Destination Node: 0
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 7,	Checksum: 29628
+Destination Node: 2
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 8,	Checksum: 51083
+Destination Node: 3
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 4, 	Sequence No: 9,	Checksum: 14901
+		DATA received, seq=2, From Node Number: 0
+Receive-Ready transmitted, Sequence No: 61945, From Node Number: 1, Checksum: 16255
+
+====================================================================
+Incoming checksum: 25121,	Calculated checksum: 25121
+====================================================================
+				DATA received, seq=3, From Node Number: 0
+Receive-Ready transmitted, Sequence No: 61945, From Node Number: 1, Checksum: 21378
+
+====================================================================
+Incoming checksum: 48632,	Calculated checksum: 48632
+====================================================================
+				DATA received, seq=4, From Node Number: 0
+Receive-Ready transmitted, Sequence No: 61945, From Node Number: 1, Checksum: 11762
+
+====================================================================
+Incoming checksum: 61945,	Calculated checksum: 61945
+====================================================================
+				DATA received, seq=5, From Node Number: 0
+Receive-Ready transmitted, Sequence No:Destination Node: 1
+Transmitting DATA through
+====================================================================
+Incoming checksum: 9440,	Calculated checksum: 9440
+===============
+====================================================================
+IDestination Node: 3
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 0, 	Sequence No: 9,	Checksum: 30950
+
+====================================================================
+Incoming checksum: 58334,	Calculated checksum: 58334
+====================================================================
+				REJ received, seq=0, From Node Number: 1
+
+====================================================================
+Incoming checksum: 32400,	Calculated checksum: 32400
+====================================================================
+				DATA received, seq=3, From Node Number: 1
+
+====================================================================
+Incoming checksum: 57643,	Calculated checksum: 57643
+====================================================================
+				REJ received, seq=46040, From Node Number: 2
+======================================
+Incoming checksum: 45775,	Calculated checksum: 45775
+====================================================================
+				DATA received, seq=8, From Node Number: 0
+Receive-Ready transmitted, Sequence No: 46040, From Node Number: 1, Checksum: 32782
+
+====================================================================
+Incoming checksum: 28297,	Calculated checksum: 28297
+====================================================================
+				REJ received, seq=0, From Node Number: 2
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 0,	Checksum: 58648
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 1,	Checksum: 62222
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 2,	Checksum: 47403
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 3,	Checksum: 11807
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 4,	Checksum: 37166
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	SequenDestination Node: 1
+Transmitting DATA through Link: 1
+DATA transmitted,	From Node Number: 3, 	Sequence No: 9,	Checksum: 64002
+
+====================================================================
+Incoming checksum: 29628,	Calculated checksum: 29628
+====================================================================
+
+
+In Middle Man Node Number: 3
+	Transmitting FRAME through Link: 1
+	FRAME transmitted, From Node Number: 3, Sequence No: 7, Checksum: 29628
+Exiting Middle Man Node Number: 3
+
+====================================================================
+Incoming checksum: 51083,	Calculated checksum: 51083
+====================================================================
+
+
+In Middle Man Node Number: 3
+	Transmitting FRAME through Link: 1
+	FRAME transmitted, From Node Number: 3, Sequence No: 8, Checksum: 51083
+Exiting Middle Man Node Number: 3
+
+====================================================================
+Incoming checksum: 14901,	Calculated checksum: 14901
+====================================================================
+				DATA received, seq=9, From Node Number: 4
+
+====================================================================
+Incoming checksum: 47527,	Calculated checksum: 47527
+====================================================================
+				REJ received, seq=0, From Node Number: 2
+	Checksum: 3128
+Destination Node: 3
+Transmitting DATA through Link: 2
+DATA transmitted,	From Node Number: 1, 	Sequence No: 9,	Checksum: 8676
+=====================================
+
+
+In Middle Man Node Number: 2
+	Transmitting FRAME through Link: 3
+	FRAME transmitted, From Node Number: 2, Sequence No: 5, Checksum: 64680
+Exiting Middle Man Node Number: 2
+
+====================================================================
+Incoming checksum: 37166,	Calculated checksum: 37166
+====================================================================
+				DATA received, seq=4, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 35004
+
+====================================================================
+Incoming checksum: 219,	Calculated checksum: 219
+====================================================================
+
+
+In Middle Man Node Number: 2
+	Transmitting FRAME through Link: 3
+	FRAME transmitted, From Node Number: 2, Sequence No: 5, Checksum: 219
+Exiting Middle Man Node Number: 2
+
+====================================================================
+Incoming checksum: 15455,	Calculated checksum: 15455
+====================================================================
+				DATA received, seq=0, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 42193
+
+====================================================================
+Incoming checksum: 43778,	Calculated checksum: 43778
+====================================================================
+				DATA received, seq=1, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 35588
+
+====================================================================
+Incoming checksum: 36070,	Calculated checksum: 36070
+====================================================================
+				DATA received, seq=2, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 24325
+
+====================================================================
+Incoming checksum: 35217,	Calculated checksum: 35217
+====================================================================
+				DATA received, seq=3, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 14922
+
+====================================================================
+Incoming checksum: 50930,	Calculated checksum: 50930
+====================================================================
+				DATA received, seq=4, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 31708
+
+====================================================================
+Incoming checksum: 29527,	Calculated checksum: 29527
+====================================================================
+				DATA received, seq=5, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 11087
+
+====================================================================
+Incoming checksum: 51870,	Calculated checksum: 51870
+====================================================================
+				DATA received, seq=6, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 18
+
+====================================================================
+Incoming checksum: 46040,	Calculated checksum: 46040
+====================================================================
+				DATA received, seq=7, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 56112
+
+====================================================================
+Incoming checksum: 46096,	Calculated checksum: 46096
+====================================================================
+				DATA received, seq=5, From Node Number: 4
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 13666
+
+====================================================================
+Incoming checksum: 45333,	Calculated checksum: 45333
+====================================================================
+				DATA received, seq=8, From Node Number: 3
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 16251
+
+====================================================================
+Incoming checksum: 58648,	Calculated checksum: 58648
+====================================================================
+				DATA received, seq=0, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 33113
+
+====================================================================
+Incoming checksum: 62222,	Calculated checksum: 62222
+====================================================================
+				DATA received, seq=1, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 6602
+
+====================================================================
+Incoming checksum: 47403,	Calculated checksum: 47403
+====================================================================
+				DATA received, seq=2, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 63991
+
+====================================================================
+Incoming checksum: 11807,	Calculated checksum: 11807
+====================================================================
+				DATA received, seq=3, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 39300
+
+====================================================================
+Incoming checksum: 37166,	Calculated checksum: 37166
+====================================================================
+				DATA received, seq=4, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 49971
+
+====================================================================
+Incoming checksum: 32322,	Calculated checksum: 32322
+====================================================================
+				DATA received, seq=6, From Node Number: 1
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 40433
+
+====================================================================
+Incoming checksum: 30950,	Calculated checksum: 30950
+====================================================================
+
+
+In Middle Man Node Number: 2
+	Transmitting FRAME through Link: 3
+	FRAME transmitted, From Node Number: 2, Sequence No: 9, Checksum: 30950
+Exiting Middle Man Node Number: 2
+
+====================================================================
+Incoming checksum: 64002,	Calculated checksum: 64002
+====================================================================
+
+
+In Middle Man Node Number: 2
+	Transmitting FRAME through Link: 2
+	FRAME transmitted, From Node Number: 2, Sequence No: 9, Checksum: 64002
+Exiting Middle Man Node Number: 2
+
+====================================================================
+Incoming checksum: 29628,	Calculated checksum: 29628
+====================================================================
+
+
+In Middle Man Node Number: 2
+	Transmitting FRAME through Link: 1
+	FRAME transmitted, From Node Number: 2, Sequence No: 7, Checksum: 29628
+Exiting Middle Man Node Number: 2
+
+====================================================================
+Incoming checksum: 51083,	Calculated checksum: 51083
+====================================================================
+				DATA received, seq=8, From Node Number: 4
+Receive-Ready transmitted, Sequence No: 32322, From Node Number: 2, Checksum: 50975

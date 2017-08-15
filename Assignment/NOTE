@@ -1,0 +1,5 @@
+4. clean up the source code/refactor for better performance
+6. disable application for nodes that are waiting for the acknowledgement
+7. increase buffer size of middle-men
+8. make it so that there is a prev_node_conn variable for each possible previous node of each node (may be inefficient but is a solution for the disable/enabling problem)
+9. push final version of source code as sliding_window_dp_FINAL
