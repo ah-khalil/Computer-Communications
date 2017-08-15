@@ -48,6 +48,8 @@
 
 #Document Encoding
 *.pdf
+*.docx
+*.doc
 
 .tmp_versions/
 modules.order
